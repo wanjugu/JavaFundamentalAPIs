@@ -1,4 +1,4 @@
-package com.SpringFundamentalAPI.JavaFundamentalAPIs.Controllers;
+package com.SpringFundamentalAPI.JavaFundamentalAPIs.Controllers.JsonOM;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
